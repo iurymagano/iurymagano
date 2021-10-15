@@ -1,5 +1,6 @@
--    👋 <h1 font-size="24px">Olá!</h1> Eu sou o Iury Magano
-
+ <div alight="center">
+👋 <h1 font-size="24px">Olá!</h1> Eu sou o Iury Magano
+ </div>
 - 🔭 Atualmente focando em Front-end
 - 💬 Estudando JavaScript 
 
