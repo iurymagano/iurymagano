@@ -1,8 +1,17 @@
- <div alight="center">
-👋 <h1 font-size="24px">Olá!</h1> Eu sou o Iury Magano
+
+
+<div class="content-text">
+ <h1> Olá! Eu sou o Iury Magano</h1
  </div>
-- 🔭 Atualmente focando em Front-end
-- 💬 Estudando JavaScript 
+ <h2>Atualmente focando em Front-end</h2>
+ <h2>Estudando JavaScript</h2>
+
+  <div style="display: inline_block"><br>
+   <img align="center" alt="Iury-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Iury-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Iury-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/iurymagano">
@@ -10,12 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurymagano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Iury-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Iury-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Iury-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-</div>
+
   
   ##
   
