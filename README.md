@@ -3,7 +3,7 @@
 <div class="content-text">
  <h1> Olá! Eu sou o Iury Magano</h1
  </div>
- <h2>Atualmente focando em Front-end</h2>
+ <h2>Desenvolvedor Front End</h2>
  <h2>Estudando JavaScript</h2>
 
   <div style="display: inline_block"><br>
