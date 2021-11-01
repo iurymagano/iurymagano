@@ -1,7 +1,7 @@
 
 
 <div class="content-text">
- <h1> Olá! Eu sou o Iury Magano</h1
+ <h1> Olá! Eu sou o Iury</h1
  </div>
  <h2>Desenvolvedor Front End</h2>
  
