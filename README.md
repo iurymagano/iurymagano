@@ -1,5 +1,5 @@
  # Olá!:wave: Seja Bem-vindo!
- # Eu sou o Iury! Desenvolvedor Junior Front End. :computer:
+ # Eu sou o Iury! Desenvolvedor Front End. :computer:
  
 
   <div style="display: inline_block"><br>
