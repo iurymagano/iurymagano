@@ -1,4 +1,4 @@
- # Olá!:wave: Seja Bem-vindo!
+ # Olá! Seja Bem-vindo!
  ## Eu sou o Iury! Desenvolvedor fullstack. :computer:
  
   <div style="display: inline_block"><br>
