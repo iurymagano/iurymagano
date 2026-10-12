@@ -1,5 +1,7 @@
 # Hello! 👋
 
+🌐 **Portfolio:** [iurymagano.vercel.app](https://iurymagano.vercel.app)
+
 ## 😎 Who Am I?
 
 Experienced Software Developer with a strong background in both front-end and back-end development. Passionate about building scalable and efficient applications with a focus on modern technologies. Specializing in React, Node.js, JavaScript, TypeScript, and database management. Committed to delivering high-quality solutions and continuously improving user experiences.
@@ -20,6 +22,9 @@ Experienced Software Developer with a strong background in both front-end and ba
 
 <br/>
   <div>
+     <a
+    href="https://iurymagano.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%2305060b?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
+    </a>
      <a
     href="https://www.linkedin.com/in/iury-magano-68478a194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
